@@ -1,5 +1,9 @@
-# Workflows Placeholder
+# Workflows
 
-This folder is reserved for lightweight public repository automation.
+This folder contains lightweight public repository automation.
 
-Do not add heavy automation until the public file architecture and validation requirements are stable.
+Current workflow:
+
+- `validate.yml` runs `scripts/validate_public_bundle.py` on pull requests and pushes to `main`.
+
+Keep automation focused on checks that help public users trust the toolkit bundle.

@@ -13,6 +13,8 @@
 9. human review and targeted signoff
 10. packaging and maintenance
 
+When an AI assistant is helping, use `docs/quickstart/use-with-ai-assistants.md` and `AGENTS.md` before drafting. The same workflow applies, but unresolved local decisions must remain visible and city reviewers remain responsible for local authority, legality, and implementation choices.
+
 ## Module-Family Logic
 
 The toolkit is organized around five connected module families:

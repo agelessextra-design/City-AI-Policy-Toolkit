@@ -51,9 +51,18 @@ Choose the module family that matches the city’s current bottleneck.
 5. Run evaluation before human review.
 6. Use examples only as examples, not as default city policy text.
 
+## If You Are Using An AI Assistant
+
+Read `docs/quickstart/use-with-ai-assistants.md` and `AGENTS.md`.
+
+The city must still provide local facts and local decisions. The assistant should use the toolkit to structure intake, outline, drafting, evaluation, hardening, and review.
+
+For business-system work, ask the assistant to produce operating assets such as intake workflows, role maps, review paths, register fields, launch-readiness checks, monitoring routines, training workflows, public notice paths, and escalation processes.
+
 ## What Comes Next
 
 - read `docs/workflow/workflow-overview.md`
+- use `use-with-ai-assistants.md` if Codex, Claude Code, or another assistant will help build the system
 - use the matching template and prompt entry points under `toolkit/`
 - use `examples/example-entry-index.md` if you need a worked system path before adapting your own city materials
 - use `start-from-zero.md` if your city is beginning without a mature AI program

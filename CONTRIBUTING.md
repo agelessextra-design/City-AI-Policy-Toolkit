@@ -1,8 +1,8 @@
 # Contributing
 
-Thanks for helping improve the City AI Policy Toolkit scaffold.
+Thanks for helping improve the City AI Policy Toolkit.
 
-This is a first-pass public-repo contribution guide. It should be treated as a starter policy for later hardening, not as a final governance document.
+This contribution guide explains how to keep public toolkit changes usable, reusable, and reviewable.
 
 ## What Contributions Should Improve
 
@@ -70,4 +70,3 @@ For now, use a concise issue description and include:
 - the intended audience
 - the reason the change is reusable
 - any local assumptions that still need resolution
-

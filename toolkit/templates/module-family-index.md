@@ -18,7 +18,7 @@ Use for:
 First candidate template:
 
 - `template-enterprise-ai-strategy-charter.md`
-- current public scaffold path: `toolkit/templates/strategic-leadership/template-enterprise-ai-strategy-charter.md`
+- current public path: `toolkit/templates/strategic-leadership/template-enterprise-ai-strategy-charter.md`
 
 ### Governance And Policy
 
@@ -32,7 +32,7 @@ Use for:
 First candidate template:
 
 - `template-governance-core-policy.md`
-- current public scaffold path: `toolkit/templates/governance-and-policy/template-governance-core-policy.md`
+- current public path: `toolkit/templates/governance-and-policy/template-governance-core-policy.md`
 
 ### Workforce And Learning
 
@@ -46,7 +46,7 @@ Use for:
 First candidate template:
 
 - `template-workforce-enablement-and-learning-plan.md`
-- current public scaffold path: `toolkit/templates/workforce-and-learning/template-workforce-enablement-and-learning-plan.md`
+- current public path: `toolkit/templates/workforce-and-learning/template-workforce-enablement-and-learning-plan.md`
 
 ### Operations And Service Delivery
 
@@ -60,7 +60,7 @@ Use for:
 First candidate template:
 
 - `template-ai-service-delivery-operating-playbook.md`
-- current public scaffold path: `toolkit/templates/operations-and-service-delivery/template-ai-service-delivery-operating-playbook.md`
+- current public path: `toolkit/templates/operations-and-service-delivery/template-ai-service-delivery-operating-playbook.md`
 
 ### Community Trust
 
@@ -74,4 +74,4 @@ Use for:
 First candidate template:
 
 - `template-public-trust-and-engagement-framework.md`
-- current public scaffold path: `toolkit/templates/community-trust/template-public-trust-and-engagement-framework.md`
+- current public path: `toolkit/templates/community-trust/template-public-trust-and-engagement-framework.md`

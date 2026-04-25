@@ -41,7 +41,7 @@ Escalate when:
 
 ## Required Escalation Targets
 
-- structural or ontology drift -> main orchestrator
-- legal or procurement boundary issues -> legal owner plus main orchestrator
+- structural or ontology drift -> repository maintainer
+- legal or procurement boundary issues -> legal owner plus repository maintainer
 - repeated readiness failures -> evaluation owner
 - repeated sprint-routing failures -> review-sprint owner

@@ -32,11 +32,9 @@ We expect participants to communicate professionally, treat others with respect,
 
 ## Reporting Concerns
 
-If you experience or observe behavior that violates this code of conduct, report it to the maintainers through the project’s designated contact path.
+If you experience or observe behavior that violates this code of conduct, report it to the maintainers through the project’s issue tracker when the concern is not sensitive.
 
-Use this placeholder until the final public repo defines the actual contact channel:
-
-- `[[MAINTAINER_CONTACT_CHANNEL]]`
+For sensitive concerns, use the private reporting path described in `SECURITY.md` or the contact channel named by the publishing organization.
 
 ## Enforcement
 
@@ -55,4 +53,3 @@ This code of conduct applies to all public repository spaces, including:
 - project discussions
 
 It does not replace any legal, employment, or organizational policy that may apply in a contributor’s own environment.
-

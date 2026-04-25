@@ -15,6 +15,7 @@ This repository is the public toolkit bundle for reuse and further hardening. It
   - workforce and learning
   - operations and service delivery
   - community trust
+- an AI-assistant operating path for cities using Codex, Claude Code, or similar tools
 
 ## What This Repo Is Not
 
@@ -39,7 +40,7 @@ If an artifact depends on local city facts, keep the local decision visible or l
 
 ## Suggested Root Structure
 
-This scaffold assumes a public repo organized around a small set of stable entry points:
+This repository is organized around a small set of stable entry points:
 
 - `docs/` for quickstart, workflow, and adaptation guidance
 - `toolkit/` for reusable prompts, templates, evaluations, review-sprint materials, and education assets
@@ -51,16 +52,19 @@ Only the public-facing parts should land in the repository root or the public do
 ## How To Start
 
 1. Read the quickstart.
-2. Choose the module family you are starting from.
-3. Read the workflow orientation.
-4. Decide which inputs are local and which can be generalized.
-5. Use the relevant template, prompt, or evaluation guide.
-6. Keep unresolved decisions explicit.
+2. If you are using an AI assistant, read `AGENTS.md` and `docs/quickstart/use-with-ai-assistants.md`.
+3. Choose the module family you are starting from.
+4. Read the workflow orientation.
+5. Decide which inputs are local and which can be generalized.
+6. Use the relevant template, prompt, or evaluation guide.
+7. Keep unresolved decisions explicit.
 
 ## What To Read Next
 
 - `CONTRIBUTING.md`
 - `CODE_OF_CONDUCT.md`
+- `AGENTS.md`
+- `SECURITY.md`
 - `CHANGELOG.md`
 
 ## How The Toolkit Is Organized
@@ -70,6 +74,7 @@ The public repo should mirror the internal build logic without exposing the buil
 - reusable structure lives in toolkit folders
 - the toolkit should expose a clear entry point for each of the five module families
 - workflow guidance explains how the layers fit together
+- AI-assistant guidance explains how to turn city inputs into policy and operating-system artifacts
 - examples show how source-backed material can be adapted safely
 - evaluation and review materials explain how quality gates work before publication
 
@@ -86,4 +91,4 @@ Core material should stay generic, reusable, and clearly separated from city-spe
 - keep naming consistent and searchable
 - preserve placeholder conventions when local decisions are still unresolved
 - do not promote internal planning docs into public guidance without review
-- keep this root documentation aligned with the packaging plan as the repo matures
+- keep this root documentation aligned with the public toolkit structure as the repo matures

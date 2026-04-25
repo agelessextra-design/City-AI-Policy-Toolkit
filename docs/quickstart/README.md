@@ -12,6 +12,7 @@ The public quickstart should answer:
 
 Minimum quickstart topics:
 
+- AI-assistant use path
 - strategic leadership start path
 - governance and policy start path
 - workforce and learning start path
@@ -21,3 +22,5 @@ Minimum quickstart topics:
 - missing-input recovery path
 
 Do not copy internal workspace orchestration notes here. Rewrite for standalone public use.
+
+Start with `use-with-ai-assistants.md` when a city wants Codex, Claude Code, or another assistant to help use the toolkit.

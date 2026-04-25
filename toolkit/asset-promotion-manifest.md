@@ -20,12 +20,20 @@ An asset belongs in the public bundle only when it:
 
 ### Root And Orientation
 
+- `AGENTS.md`
 - `README.md`
 - `CONTRIBUTING.md`
 - `CODE_OF_CONDUCT.md`
+- `SECURITY.md`
 - `CHANGELOG.md`
 - `docs/quickstart/start-here.md`
+- `docs/quickstart/use-with-ai-assistants.md`
 - `docs/workflow/workflow-overview.md`
+
+### Validation And Automation
+
+- `scripts/validate_public_bundle.py`
+- `.github/workflows/validate.yml`
 
 ### Core Toolkit Layers
 
@@ -47,12 +55,12 @@ An asset belongs in the public bundle only when it:
 
 Keep these out of the public bundle by default:
 
-- orchestration logs and control-room status files
+- private coordination logs and status files
 - source-audit working notes and provenance matrices
 - reverse-engineering working papers that depend on source-city trace
 - scratch notes and unfinished comparison files
 - extraction drafts that have not been neutralized
-- internal-only packaging notes that map public files back to the numbered workspace
+- internal-only packaging notes that map public files back to private workspaces
 
 ## Packaging Checks For This Inventory
 
@@ -66,8 +74,8 @@ Before publication, confirm:
 
 ## Ownership
 
-- `Agent.Onboarding` owns promotion of public entry and learning docs
-- `Agent.Packaging` owns destination structure and public index updates
-- `Agent.Templates` owns template promotion readiness
-- `Agent.Prompts` owns prompt promotion readiness
-- `Main Orchestrator` decides when a source asset is ready to promote
+- documentation maintainers own promotion of public entry and learning docs
+- repository maintainers own destination structure and public index updates
+- template maintainers own template promotion readiness
+- prompt maintainers own prompt promotion readiness
+- the publishing organization decides when a source asset is ready to promote
