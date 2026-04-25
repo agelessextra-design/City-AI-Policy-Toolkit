@@ -17,6 +17,14 @@ Every module family should show:
 - issue-log entries for any unresolved major concerns
 - a clear next review purpose
 
+An unresolved local decision does not automatically make a module family not ready if all of the following are present:
+
+- the unresolved marker remains visible
+- an interim owner or fallback route is named
+- authority limits are stated
+- blocked actions are stated
+- a decision deadline or resolving body is stated
+
 ## Family-Facing Readiness Checks
 
 ### Strategic Leadership
@@ -24,6 +32,7 @@ Every module family should show:
 Review-ready when:
 
 - executive sponsor and portfolio owner are named or visibly unresolved
+- visibly unresolved ownership is paired with an interim operating pattern where needed
 - strategic outcomes and priority domains are explicit
 - scale-up prerequisites are stated
 - dependencies on governance, workforce, operations, and trust are named
@@ -35,6 +44,7 @@ Review-ready when:
 
 - approval pathways and ownership are explicit
 - local-decision markers remain visible where the city has not chosen
+- unresolved controlling owners are paired with safe fallback routing where needed
 - risk, accountability, and transparency logic do not contradict each other
 - legal and procurement flags are visible
 
@@ -55,6 +65,7 @@ Review-ready when:
 - launch, support, pause, and rollback logic are visible
 - testing expectations are stated
 - resident-support implications are named where applicable
+- resident-facing launch stays blocked when no safe concern or redress path exists
 
 ### Community Trust
 
@@ -64,6 +75,7 @@ Review-ready when:
 - inquiry, concern, and redress paths are visible
 - accessibility and language-access responsibilities are named
 - trust information flows back into governance or operations
+- unresolved trust ownership is paired with an interim intake and escalation pattern where needed
 
 ## Review-Readiness Outcomes
 

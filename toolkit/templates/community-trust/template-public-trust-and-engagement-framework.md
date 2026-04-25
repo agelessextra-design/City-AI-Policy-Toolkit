@@ -127,6 +127,15 @@ The city must define:
 
 [[REQUIRES_LOCAL_DECISION: resident redress model]]
 
+This framework is incomplete if it describes notice or public engagement without naming who receives public questions, complaints, or redress requests.
+
+Recommended fallback fields:
+
+- `[[INTERIM_COMPLAINT_INTAKE_OWNER]]`
+- `[[COMPLAINT_RESPONSE_TARGET]]`
+- `[[COMPLAINT_ESCALATION_OWNER]]`
+- `[[PERMANENT_COMPLAINT_OWNER_DECISION_DATE]]`
+
 ## Incident Communication
 
 When AI use contributes to a meaningful service, trust, or safety incident, the city should define:
@@ -137,6 +146,13 @@ When AI use contributes to a meaningful service, trust, or safety incident, the 
 - how lessons learned are shared internally and, when appropriate, externally
 
 [[REQUIRES_LOCAL_DECISION: public incident communication threshold]]
+
+If the use is publicly controversial, politically sensitive, or likely to receive external scrutiny, the framework should also state:
+
+- what the city is and is not doing
+- who owns inquiry, complaint, correction, and redress routing
+- what remains blocked or unresolved
+- what public reporting point comes next
 
 ## Trust Measures
 

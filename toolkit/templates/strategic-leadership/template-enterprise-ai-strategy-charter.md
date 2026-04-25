@@ -49,6 +49,14 @@ The city must define locally:
 
 [[REQUIRES_LOCAL_DECISION: executive sponsorship model]]
 
+If the permanent portfolio or governance owner is not yet named, the city must also record:
+
+- `[[INTERIM_GOVERNANCE_OWNER]]`
+- `[[INTERIM_GOVERNANCE_OWNER_SCOPE]]`
+- `[[GOVERNANCE_DECISION_DEADLINE]]`
+
+The draft should state what launches, delegations, or scale-up actions remain blocked until the permanent owner is assigned.
+
 ## Strategic Outcomes
 
 The city should state the outcomes this charter is meant to support.
@@ -136,6 +144,14 @@ The operating model may include:
 - issue-based escalation outside the normal cycle
 
 [[REQUIRES_LOCAL_DECISION: leadership review cadence]]
+
+If the city has both enterprise and agency governance layers, the draft should distinguish:
+
+- who sets enterprise minimum standards
+- who reviews high-risk or contested uses
+- who approves agency implementation within enterprise rules
+- who can pause cross-agency or citywide use
+- what remains blocked until the authority split is finalized
 
 ## Dependencies On Other Toolkit Layers
 

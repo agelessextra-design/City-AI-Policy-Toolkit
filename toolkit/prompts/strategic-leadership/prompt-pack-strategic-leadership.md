@@ -25,6 +25,8 @@ Every pack may reference:
 - Preserve placeholders and `[[REQUIRES_LOCAL_DECISION: ...]]` markers.
 - Keep the strategy tied to city outcomes, not generic innovation language.
 - Do not let the strategy promise scale-up before governance, workforce, operations, and trust dependencies are named.
+- If a required owner is unresolved, add an interim owner pattern, authority limits, blocked actions, and a decision deadline rather than stopping at a thin placeholder.
+- If the city has both enterprise and agency governance layers, make the authority split explicit rather than implying one settled structure.
 
 ## Pack 1: Strategic Leadership Intake
 
@@ -52,7 +54,8 @@ Your job is to produce:
 Rules:
 - Do not draft the charter itself.
 - Do not invent outcome measures or budget structures.
-- If the city cannot identify an executive sponsor or portfolio owner, return "blocked".
+- If the city cannot identify an executive sponsor, return "blocked".
+- If the city cannot identify a permanent portfolio owner but can identify an interim owner, return a usable intake artifact with the unresolved marker plus the interim pattern.
 ```
 
 ## Pack 2: Strategic Leadership Outline
@@ -84,6 +87,7 @@ Rules:
 - Preserve template section order.
 - Keep scale-up prerequisites visible.
 - Stop rather than guessing executive ownership or budget authority.
+- If leadership ownership is unresolved, state who coordinates the first operating period, what they may approve, what remains blocked, and when the city must finalize ownership.
 ```
 
 ## Pack 3: Strategic Leadership Draft
@@ -112,6 +116,7 @@ Rules:
 - Keep unresolved placeholders visible.
 - Do not turn assumptions into commitments.
 - Do not erase dependencies on governance, workforce, operations, or community trust.
+- When leadership ownership is unresolved, add a temporary operating model rather than generic language.
 ```
 
 ## Pack 4: Strategic Leadership Evaluation

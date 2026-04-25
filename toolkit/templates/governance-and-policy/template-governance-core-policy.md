@@ -54,6 +54,14 @@ An AI system can be:
 
 [[REQUIRES_LOCAL_DECISION: approval chain]]
 
+If a required governance owner, review body, or complaint owner is still unresolved, the policy should keep the unresolved marker visible and also define:
+
+- the interim owner or fallback review route
+- the scope of interim authority
+- what work may continue
+- what work is blocked
+- when the city must replace the fallback with a permanent decision
+
 ## Core Principles
 
 [[CITY_NAME]] uses AI only in ways that support public service, human accountability, and public trust.
@@ -79,6 +87,14 @@ The city will not:
 The city uses a tiered governance model to match review depth to risk.
 
 [[REQUIRES_LOCAL_DECISION: tier model]]
+
+If the city has both enterprise and agency governance layers, the policy should identify:
+
+- the enterprise governance owner or review body
+- the agency implementation owner or route
+- which approvals belong at the enterprise level
+- which approvals belong at the agency level
+- what remains blocked until the authority split is finalized
 
 ### Tier 1
 
@@ -155,6 +171,14 @@ The city should not assume that one office owns every decision.
 [[REQUIRES_LOCAL_DECISION: approval chain]]
 [[REQUIRES_LOCAL_DECISION: pace concern process]]
 
+If the city has not assigned a permanent governance lead, the policy must define an interim governance owner for intake, routing, and register maintenance. The interim governance owner may not approve high-risk resident-facing use unless the city explicitly grants that authority.
+
+Recommended fallback markers:
+
+- `[[INTERIM_GOVERNANCE_OWNER]]`
+- `[[INTERIM_GOVERNANCE_OWNER_SCOPE]]`
+- `[[GOVERNANCE_DECISION_DEADLINE]]`
+
 ## Accountability
 
 Every deployed AI system must have a named human owner.
@@ -214,6 +238,14 @@ The city must decide locally whether the accountability record is:
 - internal only
 - public only
 - hybrid
+
+If the city has not assigned a permanent complaint or concern owner, the policy must define an interim complaint intake owner and response target before any resident-facing launch.
+
+Recommended fallback markers:
+
+- `[[INTERIM_COMPLAINT_INTAKE_OWNER]]`
+- `[[COMPLAINT_RESPONSE_TARGET]]`
+- `[[COMPLAINT_ESCALATION_OWNER]]`
 
 ## Internal Tools And Shadow AI
 

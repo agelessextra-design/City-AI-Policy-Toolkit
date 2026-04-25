@@ -22,6 +22,7 @@ Every pack may reference:
 - Preserve workforce, labor, and research gaps as visible issues.
 - Keep the plan tied to actual approved or likely use cases.
 - Do not let training become a generic literacy memo.
+- If a proposed use may materially affect staff workflow, duties, supervision, or staffing assumptions, add a labor-trigger owner, fallback review route, blocked actions, and decision deadline instead of leaving the issue generic.
 
 ## Pack 1: Workforce Intake
 
@@ -45,6 +46,7 @@ Produce:
 Rules:
 - Do not invent labor posture or workforce impacts.
 - If the city cannot identify affected workforce groups or any training owner, return "blocked".
+- If a labor trigger is plausible, return a usable intake artifact only if the trigger owner and fallback review route are named or visibly unresolved.
 ```
 
 ## Pack 2: Workforce Outline
@@ -72,6 +74,7 @@ Rules:
 - Preserve template section order.
 - Keep manager, labor, and support responsibilities explicit.
 - Stop rather than guessing workforce impact depth or support ownership.
+- If a labor trigger exists, state what may proceed before labor review and what remains blocked until the city decides whether consultation is required.
 ```
 
 ## Pack 3: Workforce Draft
@@ -96,6 +99,7 @@ Rules:
 - Keep unresolved markers visible.
 - Do not turn provisional staffing expectations into commitments.
 - Do not erase labor, HR, or manager responsibilities.
+- If the use may change staff workflows materially, add the labor-trigger operating pattern rather than a generic labor note.
 ```
 
 ## Pack 4: Workforce Evaluation

@@ -27,6 +27,7 @@ Rules:
 
 - do not imply disclosure alone solves trust gaps
 - keep resident support and escalation paths visible
+- if trust ownership remains unresolved, add an interim intake owner, response target, escalation path, blocked actions, and decision deadline before treating the framework as stable
 
 ## Pack 6: Community Trust Contradiction Resolution
 

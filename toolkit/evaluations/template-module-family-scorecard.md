@@ -31,7 +31,7 @@ Use it for:
 |---|---:|---|---|
 | System Coverage |  |  |  |
 | Artifact Maturity |  |  |  |
-| Claude Code Usability |  |  |  |
+| AI Assistant Usability |  |  |  |
 | Operational Specificity |  |  |  |
 | Independence From Hidden Source-City Assumptions |  |  |  |
 | Production Readiness Contribution |  |  |  |

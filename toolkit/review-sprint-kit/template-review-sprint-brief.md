@@ -54,6 +54,12 @@ List the top items for live review:
 2.
 3.
 
+If the sprint covers publicly controversial or rights-adjacent use, include whether the packet clearly states:
+
+- what the city is and is not doing
+- what remains blocked
+- how complaint, correction, or redress routing works
+
 ## Decisions Needed
 
 List the decisions that must be made live rather than left to async comments.

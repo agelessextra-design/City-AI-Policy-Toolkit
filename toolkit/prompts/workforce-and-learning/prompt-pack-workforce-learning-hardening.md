@@ -27,6 +27,7 @@ Rules:
 
 - do not invent labor posture, staffing effects, or manager authority
 - keep workforce implications tied to real use cases
+- if a labor trigger exists, add a trigger owner, fallback review route, blocked actions, and decision deadline before treating the workforce draft as stable
 
 ## Pack 6: Workforce Contradiction Resolution
 

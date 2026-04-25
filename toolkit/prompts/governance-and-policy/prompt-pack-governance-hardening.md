@@ -29,6 +29,7 @@ Rules:
 - repair the named issues only
 - do not widen scope without saying so
 - keep unresolved local decisions visible
+- when unresolved ownership remains, add fallback routing, authority limits, blocked actions, and decision deadlines before closing the issue
 
 ## Pack 6: Governance Contradiction Resolution
 

@@ -9,6 +9,8 @@ The correct move is to expose the gap, not hide it.
 ## Recovery Rules
 
 - convert the missing input into a visible placeholder
+- add an interim owner or fallback review route when a minimum safe operating pattern is possible
+- state what work may continue and what work is blocked until the decision is made
 - narrow the artifact scope before expanding it
 - use examples for structure only
 - do not move to review before the missing input is either supplied or explicitly logged

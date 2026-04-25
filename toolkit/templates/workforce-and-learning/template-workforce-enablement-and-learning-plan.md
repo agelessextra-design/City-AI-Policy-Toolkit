@@ -113,6 +113,15 @@ At minimum, specify:
 - how role, workload, or performance concerns are documented
 - how staff can raise concerns safely
 
+If a proposed AI use may materially affect staff workflows, duties, supervision, or staffing assumptions, the draft should also define:
+
+- `[[LABOR_TRIGGER_OWNER]]`
+- `[[INTERIM_LABOR_REVIEW_ROUTE]]`
+- `[[LABOR_BLOCKED_ACTIONS]]`
+- `[[LABOR_DECISION_DEADLINE]]`
+
+Until the city decides whether formal labor consultation is required, live rollout or scale-up that changes staff work conditions should remain blocked.
+
 [[REQUIRES_LOCAL_RESEARCH: labor and employee-relations obligations]]
 [[REQUIRES_LEGAL_REVIEW: bargaining or classification implications]]
 

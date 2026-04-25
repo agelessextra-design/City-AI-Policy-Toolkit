@@ -27,6 +27,7 @@ Rules:
 
 - do not hide weak operational support or pause authority gaps
 - keep governance, workforce, and trust dependencies explicit
+- if unresolved ownership remains, add fallback routing, authority limits, blocked actions, and decision deadlines before treating the launch path as stable
 
 ## Pack 6: Operations Contradiction Resolution
 

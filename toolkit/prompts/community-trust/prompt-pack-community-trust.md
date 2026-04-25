@@ -22,6 +22,8 @@ Every pack may reference:
 - Preserve unresolved notice, accessibility, engagement, and redress decisions.
 - Keep the framework tied to actual resident-facing or publicly meaningful uses.
 - Do not claim public accountability channels the city has not confirmed.
+- If a required trust owner is unresolved, add an interim intake owner, response target, escalation owner, blocked actions, and a decision deadline rather than stopping at a placeholder.
+- If the use is publicly controversial or politically sensitive, add a packet-style explanation of what the city is and is not doing, what remains blocked, and where public concerns route.
 
 ## Pack 1: Community Trust Intake
 
@@ -45,6 +47,7 @@ Produce:
 Rules:
 - Do not invent public engagement posture or complaint pathways.
 - If the city cannot identify any public explanation or concern channel, return "blocked".
+- If the city lacks a permanent complaint or redress owner but can name an interim intake route, return a usable intake artifact with the unresolved marker plus the interim pattern.
 ```
 
 ## Pack 2: Community Trust Outline
@@ -72,6 +75,7 @@ Rules:
 - Preserve template section order.
 - Keep inquiry, concern, and redress pathways explicit.
 - Stop rather than guessing notice thresholds or engagement obligations.
+- If no final complaint owner exists, include an interim intake owner, response target, escalation path, and blocked launch rule for resident-facing use.
 ```
 
 ## Pack 3: Community Trust Draft
@@ -96,6 +100,7 @@ Rules:
 - Keep unresolved markers visible.
 - Do not hide accessibility, language-access, or redress gaps.
 - Do not imply public trust is satisfied by disclosure alone.
+- If complaint or redress ownership is unresolved, do not allow the framework to stop at a placeholder. Include the interim path and state what cannot launch until the permanent model is decided.
 ```
 
 ## Pack 4: Community Trust Evaluation

@@ -23,6 +23,14 @@ Before asking an assistant to draft, gather as much of this as possible:
 
 Missing inputs are allowed. They must stay visible as unresolved decisions or research items.
 
+If a required owner, review body, or control decision is missing, the assistant should not stop at a bare placeholder when a minimum safe operating fallback is possible. The output should also state:
+
+- the interim owner or fallback review route
+- the scope of interim authority
+- what work may continue
+- what work is blocked
+- the deadline or review body that must resolve the gap
+
 ## Recommended Assistant Instruction
 
 Use this instruction when starting a session:
@@ -98,6 +106,8 @@ The assistant should convert missing information into one of these visible marke
 - `[[REQUIRES_LEGAL_REVIEW: ...]]`
 - `[[OPTIONAL_IF: ...]]`
 
+When a missing input would otherwise make the workflow unsafe, the assistant should add a visible fallback pattern alongside the unresolved marker instead of smoothing over the gap.
+
 ## Readiness Gate
 
 Before sharing outputs beyond the working team, run:
@@ -108,4 +118,3 @@ Before sharing outputs beyond the working team, run:
 - `toolkit/review-sprint-kit/template-board-review-packet.md` when leadership or board review is needed
 
 Do not treat the output as ready if unresolved critical issues remain.
-

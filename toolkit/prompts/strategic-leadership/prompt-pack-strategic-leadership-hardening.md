@@ -27,6 +27,7 @@ Rules:
 
 - do not invent executive ownership or portfolio maturity
 - keep cross-family dependencies explicit
+- if ownership remains unresolved, add interim owner scope, blocked actions, and decision deadlines before treating the draft as stabilized
 
 ## Pack 6: Strategic Leadership Contradiction Resolution
 

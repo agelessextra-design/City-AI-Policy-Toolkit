@@ -31,6 +31,13 @@ Include:
 4. public-facing entry points relevant to the batch
 5. open major issues that remain
 
+If the batch involves publicly controversial, rights-adjacent, or politically sensitive AI use, also include:
+
+6. what the city is and is not doing
+7. current complaint and redress routing
+8. blocked actions and unresolved decisions
+9. next public reporting point
+
 ## Likely Objections
 
 List the top objections the board reviewer is likely to raise before the session starts.

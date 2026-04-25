@@ -55,6 +55,8 @@ The city must also decide:
 - `[[REQUIRES_LOCAL_DECISION: incident disclosure threshold]]`
 - `[[REQUIRES_LOCAL_DECISION: department supplements]]`
 
+If a required owner, review body, or reviewer function does not yet exist, the workflow should keep the unresolved marker visible and also name the fallback route, authority limit, blocked actions, and decision deadline.
+
 ## Core Workflow
 
 1. A use case, tool, request, or internal build is identified.
@@ -168,6 +170,22 @@ Local decision marker:
 
 - `[[REQUIRES_LOCAL_DECISION: review routing model]]`
 
+If the city has both enterprise and agency governance layers, the workflow should distinguish:
+
+- who sets enterprise minimum standards
+- who handles high-risk or contested review
+- who approves agency implementation within enterprise limits
+- who can pause cross-agency or citywide use
+- what remains blocked until the authority split is finalized
+
+If a required reviewer function does not formally exist, the workflow must define a fallback route and authority limit rather than leaving the function implied.
+
+Examples:
+
+- `[[INTERIM_PRIVACY_REVIEW_ROUTE]]`
+- `[[INTERIM_GOVERNANCE_OWNER]]`
+- `[[INTERIM_REVIEW_BODY]]`
+
 ## Approval And Escalation
 
 Approval must be explicit. The workflow should require:
@@ -238,6 +256,8 @@ Local decisions:
 - `[[REQUIRES_LOCAL_DECISION: incident response path]]`
 - `[[REQUIRES_LOCAL_DECISION: incident disclosure threshold]]`
 - `[[REQUIRES_LEGAL_REVIEW: incident response obligations]]`
+
+Incident routing may be drafted before the city finalizes disclosure rules, but the workflow should name the interim internal route, escalation owner, and decision deadline for the disclosure decision.
 
 ## What Must Stay Out Of The Template
 

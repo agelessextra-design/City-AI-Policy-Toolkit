@@ -29,6 +29,8 @@ Every pack may reference these canonical artifacts:
 - Preserve `[[REQUIRES_LOCAL_DECISION: ...]]` and `[[REQUIRES_LOCAL_RESEARCH: ...]]` markers until resolved.
 - Do not draft final prose before the outline exists.
 - Return structured artifacts, not free-form essays.
+- If a required owner or review function is unresolved, add a fallback route, authority limit, blocked actions, and a decision deadline instead of leaving a bare gap.
+- If the city has both enterprise and agency governance layers, make the split explicit and state what remains blocked until it is finalized.
 
 ## Pack 1: Governance Intake
 
@@ -60,7 +62,8 @@ Required output sections:
 Rules:
 - Do not invent missing facts.
 - Keep unresolved placeholders visible.
-- If the city cannot identify its approval chain, governance lead, or legal review role, return "blocked".
+- If the city cannot identify its approval chain or legal review role, return "blocked".
+- If the city lacks a permanent governance lead but can name an interim owner, return a usable intake artifact with the unresolved marker plus the interim governance pattern.
 ```
 
 ### Output Type
@@ -101,6 +104,7 @@ Rules:
 - Do not convert unresolved decisions into final prose.
 - If a section depends on unknown local facts, keep the research marker visible.
 - Stop rather than guessing.
+- If the governance lead is unresolved, draft an interim governance-owner pattern with intake and routing authority, high-risk approval limits, blocked actions, and a decision deadline for permanent ownership.
 ```
 
 ### Stop Conditions
@@ -138,6 +142,7 @@ Rules:
 - Do not invent legal, procurement, or authority claims.
 - Do not collapse the workflow into the core policy.
 - Produce clear draft prose, but keep it visibly incomplete where the city has not decided.
+- If complaint or trust ownership is unresolved, include an interim intake owner and response target before treating resident-facing launch as usable.
 ```
 
 ### Stop Conditions

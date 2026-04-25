@@ -22,6 +22,7 @@ Every pack may reference:
 - Preserve support, rollback, vendor, and resident-impact gaps.
 - Keep governance and workforce dependencies visible.
 - Do not skip testing, support, or retirement logic because a pilot seems small.
+- If a required owner is unresolved, add a fallback route, authority limits, blocked actions, and a decision deadline instead of treating the gap as ordinary ambiguity.
 
 ## Pack 1: Operations Intake
 
@@ -72,6 +73,7 @@ Rules:
 - Preserve template section order.
 - Keep service ownership and support obligations explicit.
 - Stop rather than guessing pause authority, launch authority, or resident-support pathways.
+- Before treating a resident-facing or resident-adjacent launch path as usable, require a concern intake owner, response target, escalation path, and pause authority.
 ```
 
 ## Pack 3: Operations Draft
@@ -96,6 +98,7 @@ Rules:
 - Keep unresolved markers visible.
 - Do not hide support or rollback gaps.
 - Do not collapse operational stages into generic project-management language.
+- If any resident-support, complaint, or escalation field remains unresolved, state whether launch is blocked or provisionally limited.
 ```
 
 ## Pack 4: Operations Evaluation

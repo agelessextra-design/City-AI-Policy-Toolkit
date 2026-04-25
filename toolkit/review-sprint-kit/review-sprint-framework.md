@@ -139,6 +139,7 @@ Optional packet contents:
 - comparison to prior draft
 - decision requests requiring explicit reviewer choice
 - HTML pre-delivery gate summary if one was run
+- controversy packet stating what the city is and is not doing, blocked actions, unresolved decisions, and public reporting points when scrutiny is likely
 
 ## Recommended Session Rules
 

@@ -151,6 +151,14 @@ If a use case affects residents, the city should define:
 [[OPTIONAL_IF: use case is internal only]]
 [[REQUIRES_LOCAL_DECISION: resident support channel]]
 
+No resident-facing or resident-adjacent launch should proceed unless the draft names:
+
+- a reachable complaint or concern intake owner
+- a response target
+- an escalation owner for material complaints or resident-impacting incidents
+
+If the permanent owner is not yet decided, use an interim owner marker rather than leaving the field blank.
+
 ## Metrics And Continuous Improvement
 
 The city should measure whether the operational change is actually helping.
